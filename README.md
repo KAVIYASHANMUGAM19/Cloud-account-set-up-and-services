@@ -1,6 +1,9 @@
 ## EX NO: Cloud-account-set-up-and-services
+
 REG NO : 212223040090
+
 NAME : KAVIYA S
+
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
 
